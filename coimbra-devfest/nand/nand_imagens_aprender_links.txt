@@ -1,0 +1,20 @@
+
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/nand.png
+
+
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/2000px-Nand-gate-en.svg.png
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/2_18_1_4.png
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/Logic-gate-nand-de.png
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/Logic-gate-nand-us.png
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/NAND Gate Symbol IngenuityDias.png
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/NAND Gate Symbol.jpg
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/NAND-Gate-Symbol.jpg
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/NANDgate.png
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/NANDsym.JPG
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/Nand-gate-symbol.png
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/ROGiwWX.gif
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/and-gate.gif
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/logicgate-14.png
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/nandgate.gif
+https://raw.githubusercontent.com/lcdporto/hacker-buzz-datasets/master/coimbra-devfest/nand/symbol-of-nand-gate.gif
+
